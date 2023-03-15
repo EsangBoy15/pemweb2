@@ -11,6 +11,7 @@ if (isset($_GET['submit'])) {
     echo "Nilai UTS: $uts <br>";
     echo "Nilai UAS: $uas <br>";
     echo "Nilai Praktium: $praktikum <br>";
+    echo "Rata-Rata Nilai: " 
 } else {
     echo "Tidak ada data";
 }
